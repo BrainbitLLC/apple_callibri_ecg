@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "callibri-ecg"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "Mathematical library for working with ECG data from the Callibri sensor"
   spec.homepage     = "https://gitlab.com/neurosdk2/neurosamples"
   spec.license      = { :type => 'MIT' } 
